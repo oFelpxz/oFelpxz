@@ -39,7 +39,7 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
     
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil" style="margin-right: 5px;">
+  <a href="https://www.linkedin.com/in/seu-perfil" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/Connect%20with%20me-%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
   </a>
 
