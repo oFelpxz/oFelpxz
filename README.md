@@ -2,6 +2,17 @@
 
 I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at IBM Consulting.
 
+### 🙋‍♂️ About Me
+
+I am passionate about creating efficient and user-friendly applications that solve real-world problems. My journey in technology began with a curiosity for programming and has evolved into a career focused on enhancing user experiences through innovative solutions.
+
+### 🔍 Interests
+
+- Cloud Computing
+- User Experience Design
+- Open Source Development
+- Artificial Intelligence
+
 ### 🚀 Skills and Technologies
 <div style="display: flex; margin-top: 5px;">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="25" style="margin-right: 5px;" /> 
@@ -51,17 +62,4 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
   <img src="https://i.pinimg.com/originals/91/89/e6/9189e6f9191cc3335d5a3dce3d8212c7.gif" alt="Programming GIF" width="300" />
 </p>
 
-### 🙋‍♂️ About Me
 
-I am passionate about creating efficient and user-friendly applications that solve real-world problems. My journey in technology began with a curiosity for programming and has evolved into a career focused on enhancing user experiences through innovative solutions.
-
-### 🔍 Interests
-
-- Cloud Computing
-- User Experience Design
-- Open Source Development
-- Artificial Intelligence
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Contribution Snake" width="800" />
-</p>
