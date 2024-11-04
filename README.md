@@ -36,3 +36,13 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
   - Developed a system to monitor air quality.
   - Created a website for a barbershop.
   - Built a point management system for schools.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/Connect%20with%20me-%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+  </a>
+
+  <a href="https://www.instagram.com/seu-perfil">
+    <img src="https://img.shields.io/badge/Follow%20me-%20Instagram-E1306C?style=for-the-badge&logo=instagram" alt="Instagram Profile"/>
+  </a>
+</p>
