@@ -47,6 +47,6 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
   </a>
 </p>
 
-<p align="center">
+<p align="center" margin-top= "40px">
   <img src="https://i.pinimg.com/originals/91/89/e6/9189e6f9191cc3335d5a3dce3d8212c7.gif" alt="Programming GIF" width="300" />
 </p>
