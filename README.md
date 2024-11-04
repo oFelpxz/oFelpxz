@@ -29,16 +29,17 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
   Developed websites for various clients, focusing on user experience and responsive design. Collaborated with clients to understand their needs and deliver customized solutions.
 
 <div style="display: flex; justify-content: space-between;">
- <div>
-  ### 🎓 Education
+  <div style="flex: 1; padding-right: 20px;">
+    ### 🎓 Education
   
-  - **Bachelor's Degree in [Information System]** (Currently Enrolled)  
-    *University Name, Expected Year of Graduation: 2026*  
-</div>
-<div>
- ### 🌍 Languages
+    - **Bachelor's Degree in Information Systems** (Currently Enrolled)  
+      *University Name, Expected Year of Graduation: 2026*  
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    ### 🌍 Languages
  
- - **English** - Advanced
- - **Portuguese** - Native
+    - **English** - Advanced
+    - **Portuguese** - Native
+  </div>
 </div>
-</div>
+
