@@ -21,12 +21,11 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 20px;">
     <h3> 💼 Professional Experience</h3>
-  
-    - Intern at IBM Consulting  
-      *09/2024 – Present*  
-      Working as an SAP Consultant with a focus on SAP Fiori and SAP BTP, collaborating on various projects to enhance client solutions.
+      <b>Intern at IBM Consulting </b>
+      <p>*09/2024 – Present* </p>
+      <p>Working as an SAP Consultant with a focus on SAP Fiori and SAP BTP, collaborating on various projects to enhance client solutions.</p>
 
-    - Freelance Web Developer
+    Freelance Web Developer
       *08/2023 – Present*  
       Developed websites for various clients, focusing on user experience and responsive design. Collaborated with clients to understand their needs and deliver customized solutions.
   </div>
