@@ -32,10 +32,6 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
 
 - **Bachelor's Degree in [Information System]** (Currently Enrolled)  
   *University Name, Expected Year of Graduation: 2026*  
-  Relevant projects: 
-  - Developed a system to monitor air quality.
-  - Created a website for a barbershop.
-  - Built a point management system for schools.
 
 ### 🌍 Languages
 
