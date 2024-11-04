@@ -3,7 +3,7 @@
 I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at IBM Consulting.
 
 ### 🚀 Skills and Technologies
-
+<div style="display: flex">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="25" style="margin-right: 5px;" /> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" height="25" style="margin-right: 5px;" /> 
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" height="25" style="margin-right: 5px;" /> 
@@ -17,3 +17,4 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
 <img src="https://img.shields.io/badge/-SAP%20BTP-black?style=flat-square&logo=sap" height="25" style="margin-right: 5px;" /> 
 <img src="https://img.shields.io/badge/-SAP%20Fiori-black?style=flat-square&logo=sap" height="25" style="margin-right: 5px;" /> 
 <img src="https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse" height="25" style="margin-right: 5px;" /> 
+</div>
