@@ -42,7 +42,7 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
   <a href="https://www.linkedin.com/in/felpxz" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Connect%20with%20me-%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
   </a>
-
+  <p>     </p>
   <a href="https://www.instagram.com/felllpxz">
     <img src="https://img.shields.io/badge/Follow%20me-%20Instagram-E1306C?style=for-the-badge&logo=instagram" alt="Instagram Profile"/>
   </a>
