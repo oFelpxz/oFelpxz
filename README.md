@@ -28,7 +28,7 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
   *08/2023 – Present*  
   Developed websites for various clients, focusing on user experience and responsive design. Collaborated with clients to understand their needs and deliver customized solutions.
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; ">
   <div style="margin-right: 20px;">
     ### 🎓 Education
   
