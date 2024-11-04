@@ -36,3 +36,8 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
   - Developed a system to monitor air quality.
   - Created a website for a barbershop.
   - Built a point management system for schools.
+
+### 🌍 Languages
+
+- **English** - Advanced
+- **Portuguese** - Native
