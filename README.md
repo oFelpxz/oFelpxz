@@ -30,13 +30,13 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
 
 <div style="display: flex; justify-content: space-between;">
   <div style="margin-right: 20px;">
-    ### 🎓 Education
+    <h3>🎓 Education</h3>
   
     - **Bachelor's Degree in Information Systems** (Currently Enrolled)  
       *University Name, Expected Year of Graduation: 2026*  
   </div>
   <div>
-    ### 🌍 Languages
+    <h3>🌍 Languages</h3>
  
     - **English** - Advanced
     - **Portuguese** - Native
