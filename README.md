@@ -47,12 +47,5 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oFelpxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-###
-
-<img src="https://raw.githubusercontent.com/oFelpxz/oFelpxz/output/snake.svg" alt="Snake animation" />
-
-###
