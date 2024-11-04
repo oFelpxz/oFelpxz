@@ -38,8 +38,8 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
   - Built a point management system for schools.
     
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felpxz">
+<p align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/felpxz" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Connect%20with%20me-%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
   </a>
 
