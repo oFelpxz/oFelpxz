@@ -30,8 +30,14 @@ I'm an SAP Consultant focused on SAP Fiori and SAP BTP, currently an intern at I
 
 <table>
       <tr>
-        <td><h3>🎓 Education</h3></td>
-        <td><h3>🌍 Lenguages</h3></td>
+        <td><h3>Education</h3></td>
+        <td style="display: flex; flex-direction: column">
+          <h3>Lenguages</h3>
+          <ul>
+            <li><b>English</b>: Advanced</li>
+            <li><b>Portuguese</b>: Native</li>
+          </ul>
+        </td>
       </tr>
     </table>
 
