@@ -63,5 +63,5 @@ I am passionate about creating efficient and user-friendly applications that sol
 - Artificial Intelligence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Contribution Snake" width="1000" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Contribution Snake" width="800" />
 </p>
