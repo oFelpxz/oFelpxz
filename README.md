@@ -36,7 +36,7 @@ I am passionate about creating efficient and user-friendly applications that sol
   Working as an SAP Consultant with a focus on SAP Fiori and SAP BTP, collaborating on various projects to enhance client solutions.
 
 - **Freelance Web Developer**  
-  *08/2023 – Month Year*  
+  *08/2023 – Present*  
   Developed websites for various clients, focusing on user experience and responsive design. Collaborated with clients to understand their needs and deliver customized solutions
 
 ### 🎓 Education
