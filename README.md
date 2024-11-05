@@ -32,11 +32,11 @@ I am passionate about creating efficient and user-friendly applications that sol
 ### 💼 Professional Experience
 
 - **Intern** at IBM Consulting  
-  *Month Year – Present*  
+  *09/2024 – Present*  
   Working as an SAP Consultant with a focus on SAP Fiori and SAP BTP, collaborating on various projects to enhance client solutions.
 
 - **Freelance Web Developer**  
-  *Month Year – Month Year*  
+  *08/2023 – Month Year*  
   Developed websites for various clients, focusing on user experience and responsive design. Collaborated with clients to understand their needs and deliver customized solutions
 
 ### 🎓 Education
