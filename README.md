@@ -42,7 +42,7 @@ I am passionate about creating efficient and user-friendly applications that sol
 ### 🎓 Education
 
 - **Bachelor's Degree in [Information System]** (Currently Enrolled)  
-  *University Name, Expected Year of Graduation: 2026*  
+  *PUC-Campinas, Expected Year of Graduation: 2026*  
   Relevant projects: 
   - Developed a system to monitor air quality.
   - Created a website for a barbershop.
